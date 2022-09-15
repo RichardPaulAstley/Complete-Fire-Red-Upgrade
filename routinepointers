@@ -228,6 +228,9 @@ PlayerAvatarTransition_HandleUnderwater 8471EEC
 MetatileBehavior_IsMuddySlope 835B7FC
 ForcedMovement_MuddySlope 835B800
 
+##Honey
+FieldUseFunc_Honey 83dbca4
+
 #ifdef UNBOUND
 FieldUseFunc_MaxPowder 8876C40
 FieldUseFunc_Honey 8876E7C
